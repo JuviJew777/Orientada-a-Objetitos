@@ -1,0 +1,4 @@
+﻿  NumerosABits.cpp
+c:\users\david\documents\github\orientada a objetos\numerosabits\numerosabits\numerosabits.cpp(26): warning C4554: '<<': compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  NumerosABits.vcxproj -> C:\Users\David\Documents\GitHub\Orientada a Objetos\NumerosABits\Debug\NumerosABits.exe
+  NumerosABits.vcxproj -> C:\Users\David\Documents\GitHub\Orientada a Objetos\NumerosABits\Debug\NumerosABits.pdb (Full PDB)
