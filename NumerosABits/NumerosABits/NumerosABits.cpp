@@ -5,6 +5,22 @@
 #include <iostream>
 #include <bitset>
 
+void bitset2(int x)
+{
+	int binario[4];
+	for(int i = 4; i >= 0; --i)
+	{
+		if ((x & 1) == 1)
+			binario[i] = 1;
+		else
+			binario[i] = 0;
+		x = x >> 1;
+	}
+	for (int i = 4; i >= 0; --i)
+	{
+		std::cout << binario[i];
+	}
+}
 
 void main()
 {
@@ -14,7 +30,7 @@ void main()
 
 	std::cin >> x;
 
-	std::cout << std::bitset<8>(x) << std::endl;
+	bitset2(x);
 
 	while(true)
 	{

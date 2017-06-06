@@ -1,0 +1,4 @@
+﻿  AndVsXor.cpp
+c:\users\david\documents\github\orientada-a-objetitos\andvsxor\andvsxor\andvsxor.cpp(20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  AndVsXor.vcxproj -> C:\Users\David\Documents\GitHub\Orientada-a-Objetitos\AndVsXor\Debug\AndVsXor.exe
+  AndVsXor.vcxproj -> C:\Users\David\Documents\GitHub\Orientada-a-Objetitos\AndVsXor\Debug\AndVsXor.pdb (Full PDB)
