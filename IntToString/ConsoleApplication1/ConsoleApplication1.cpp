@@ -13,8 +13,9 @@ void IntToString(const int& c)
 
 	for (;;) 
 	{
+		//No soporta negativos no se como ejejeje;
 		num %= 10;
-		num + 48;
+		num += 48;
 		tNum /= 10;
 		numero += num;
 		num = tNum;
